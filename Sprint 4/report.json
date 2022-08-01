@@ -1,0 +1,38 @@
+[
+    {
+        "Title": "Create Controllers",
+        "CurrentDuration": 30.0,
+        "InitialDuration": 30.0,
+        "Status": "Doing"
+    },
+    {
+        "Title": "Introduction to Python",
+        "CurrentDuration": 0.0,
+        "InitialDuration": 30.0,
+        "Status": "Done"
+    },
+    {
+        "Title": "Introduction to SQLite",
+        "CurrentDuration": 0.0,
+        "InitialDuration": 30.0,
+        "Status": "Done"
+    },
+    {
+        "Title": "Introduction to Tkinter",
+        "CurrentDuration": 0.0,
+        "InitialDuration": 30.0,
+        "Status": "Done"
+    },
+    {
+        "Title": "Create GUIs",
+        "CurrentDuration": 0.0,
+        "InitialDuration": 30.0,
+        "Status": "Done"
+    },
+    {
+        "Title": "Create Models",
+        "CurrentDuration": 0.0,
+        "InitialDuration": 30.0,
+        "Status": "Done"
+    }
+]
