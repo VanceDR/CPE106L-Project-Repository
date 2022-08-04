@@ -7,7 +7,7 @@ A Pomodoro Based Time Management Application.
 ## Libraries Used
 - tkinter (& ttk, messagebox, simpledialog, filedialog, font)
 - sqlite3
-- chime 
+- chime (needed to be installed)
 - json
 - os
 - pathlib
@@ -22,7 +22,9 @@ A Pomodoro Based Time Management Application.
 
 4. Run the main application `python main_app.py`
 
-5. Done, you can use the App. Don't forget to create a user to access the application.
+5. To Create New User, Click the `Create New User` hyperlink, input your desired Username and Password, and Re-enter your Password to confirm.
+
+6. You can now login and use the app!
 
 > (Optional, to create your own task list, check the provided JSON Files on how to format your task list to be imported into the application.)
 > 
