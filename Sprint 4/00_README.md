@@ -20,9 +20,9 @@ Created by CPE106L-E01_03 4Q2122 with Mentor IVVillamor and Instructor DAPadilla
 - login_view.py - the View or GUI of the Login App.
 ### Pomodoro App
 - pomo_app.py - standalone Pomodoro Application
-- login_controller.py - the Controller of the Pomodoro App, interfaces the pomo model and view.
-- login_model.py - the Model of the Pomodoro App, stores the tasks and timer counters.
-- login_view.py - the View or GUI of the Pomodoro App.
+- pomo_controller.py - the Controller of the Pomodoro App, interfaces the pomo model and view.
+- pomo_model.py - the Model of the Pomodoro App, stores the tasks and timer counters.
+- pomo_view.py - the View or GUI of the Pomodoro App.
 ### Main App
 - main_app.py - used to run both Login and Pomo App to form the whole application collects classes from files.
 - full_in_one_app.py - single file code, runs like the main_app.
